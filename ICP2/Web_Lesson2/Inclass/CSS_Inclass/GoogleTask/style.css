@@ -170,6 +170,29 @@ footer a {
   right: 0;
   top: 10px;
 }
+				
+.recents {
+  position: relative;
+  width: 450px;
+  height: 250px;
+  top: 15vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.recents a {
+  float: right;
+  padding: 10px 10px;
+}
+
+.recents img {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+}
 footer a:hover {
   text-decoration: underline;
 }
