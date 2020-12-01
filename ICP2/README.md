@@ -7,21 +7,21 @@ Description:
 
 #### output screenshot 1
 
-![succulents_output](wiki_screenshots/succulents_output.png)
+![succulents_output](wiki_screenshots/succulents_output.PNG)
 
 notes:
 this page contains the required elements
 
 #### output screenshot 2
 
-![recenttabs_output](wiki_screenshots/recenttabs_output.png)
+![recenttabs_output](wiki_screenshots/recenttabs_output.PNG)
 
 notes:
 in this example, all recent pages are github. Clicking on each one sends the user to the github homepage
 
 #### output screenshot 3
 
-![colorgrid_output](wiki_screenshots/colorgrid_output.png)
+![colorgrid_output](wiki_screenshots/colorgrid_output.PNG)
 
 notes:
 color grid
