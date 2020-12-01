@@ -1,28 +1,28 @@
 # ICP2 README / WIKI
 
-Description:
-1.) I created an HTML page about succulents incorporating the required elements
-2.) I modified the google homepage to include recent tabs
-3.) I created a web page which displays a 3x3 grid of different colors
+<b>Description:</b> <br>
+1.) I created an HTML page about succulents incorporating the required elements <br>
+2.) I modified the google homepage to include recent tabs <br>
+3.) I created a web page which displays a 3x3 grid of different colors <br>
 
 #### output screenshot 1
 
 ![succulents_output](wiki_screenshots/succulents_output.PNG)
 
-notes:
-this page contains the required elements
+notes: <br>
+this page contains the required elements <br>
 
 #### output screenshot 2
 
 ![recenttabs_output](wiki_screenshots/recenttabs_output.PNG)
 
-notes:
-in this example, all recent pages are github. Clicking on each one sends the user to the github homepage
+notes: <br>
+in this example, all recent pages are github. Clicking on each one sends the user to the github homepage <br>
 
 #### output screenshot 3
 
 ![colorgrid_output](wiki_screenshots/colorgrid_output.PNG)
 
-notes:
-color grid
+notes: <br>
+color grid <br>
 
