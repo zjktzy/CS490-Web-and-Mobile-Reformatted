@@ -1,13 +1,12 @@
-# ICP3 README / WIKI
+# ICP9 README / WIKI
 
 Description:
 
-In this ICP I created a simple rock paper scissors game using javascript as well as replicated a mockup using html and css
+In this ICP I created a pizza ordering app which sends an email to users confirming their order.
 
 ## RPS Task
 
 ##### Output Screenshot
-
 
 ![order_output](wiki_screenshots/order_output.PNG)
 notes: <br>

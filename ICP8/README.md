@@ -2,7 +2,7 @@
 
 Description:
 
-In this ICP I created a simple rock paper scissors game using javascript as well as replicated a mockup using html and css
+In this ICP I created a simple application in which users can log in and log out.
 
 ## RPS Task
 
