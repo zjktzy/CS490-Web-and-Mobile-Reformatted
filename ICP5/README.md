@@ -8,36 +8,32 @@ In this ICP I created a simple rock paper scissors game using javascript as well
 
 ##### Output Screenshot
 
-![RPS_output](wiki_screenshots/RPS_output.PNG)
+![icp5_output](wiki_screenshots/icp5_output.PNG)
 
 notes: <br>
-My rock paper scissors game is based on the given calculator example
-
-##### CSS Screenshot
-
-![RPS_css](wiki_screenshots/RPS_css.PNG)
-
-notes: <br>
-I wrote custom css for each output screen (results, player, and computer)
+To Do tasks can be added, removed, and marked complete
 
 ##### HTML Screenshot
 
-![RPS_html](wiki_screenshots/RPS_html.PNG)
+![RPS_css](wiki_screenshots/icp5_html.PNG)
 
 notes: <br>
-I used the given calculator code as a framework for my rock paper scissors game. <br>
-I also used the bootstrap grid system to organize elements within the container
+My application consists of two containers, the first holds my To Do input box and list. <br>
+The second container holds the input boxes for new events and a list of timestamps for each event. <br>
 
-##### Output Screenshot
+##### To Do TypeScript Screenshot
 
-![RWD_output](wiki_screenshots/RWD_output.PNG)
-
-notes: <br>
-I was able to replicate most of the elements but struggled to make my name appear on the right side. I think my columns were not set up correctly
-
-##### HTML Screenshot
-
-![RWD_output](wiki_screenshots/RWD_html.PNG)
+![icp5_todo_ts](wiki_screenshots/icp5_todo_ts.PNG)
 
 notes: <br>
-I used the bootstrap grid system here as well to organize elements on the page
+The submitNewItem function simply takes the item input and adds it to the item list. <br>
+The completeItem function finds the index of the given item and 'splices' or removes it from the list. <br>
+
+##### Countdown TypeScript Screenshot
+
+![icp5_countdown_ts](wiki_screenshots/icp5_countdown_ts.PNG)
+
+notes: <br>
+The submitNewDate function adds both the event name and event date to their respective lists. <br>
+The startCountDown function parses the user input date and stores it in a date object. It should also start the countdown for that date, but this part is not functioning. <br>
+The countdown function decrements the date by one second and is meant to be called each second the app is running for each date in the dates list. <br>
