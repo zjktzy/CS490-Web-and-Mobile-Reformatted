@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="886c1772-c9b2-4365-b0ae-e01ef6f2b68a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/images/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/LocalStorageDemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/LocalStorageDemo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/LocalStorageDemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/LocalStorageDemo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/LocalStorageDemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/Angular/LocalStorageDemo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP5/Web_Lesson5/ICP/ToDoICP/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP6/Web_Lesson6/Web_Lesson6/UseCase/MyWiki/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lnynvE38xIIg3dJ8eUMGzzpOus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="886c1772-c9b2-4365-b0ae-e01ef6f2b68a" name="Default Changelist" comment="" />
+      <created>1608247319150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608247319150</updated>
+    </task>
+    <servers />
+  </component>
+</project>

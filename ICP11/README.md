@@ -1,43 +1,55 @@
-# ICP3 README / WIKI
+# ICP11 README / WIKI
 
 Description:
 
-In this ICP I created a simple rock paper scissors game using javascript as well as replicated a mockup using html and css
+In this ICP I learned to use the basic android hardware functionality including Camera, Audio Recording, and Storage capability. <br>
 
-## RPS Task
+#### Menu Output Screenshot
 
-##### Output Screenshot
+![menu_output](wiki_screenshots/menu_output.PNG)
+notes: <br>
+From this menu, users can access the different android hardware functionality. <br>
 
-![RPS_output](wiki_screenshots/RPS_output.PNG)
+#### Camera Output Screenshot
+
+![camera_output](wiki_screenshots/camera_output.PNG)
 
 notes: <br>
-My rock paper scissors game is based on the given calculator example
+Users can take an image and the application will give a preview.
 
-##### CSS Screenshot
+#### Camera Java Screenshot
 
-![RPS_css](wiki_screenshots/RPS_css.PNG)
-
-notes: <br>
-I wrote custom css for each output screen (results, player, and computer)
-
-##### HTML Screenshot
-
-![RPS_html](wiki_screenshots/RPS_html.PNG)
+![CameraActivity_java](wiki_screenshots/CameraActivity_java.PNG)
 
 notes: <br>
-I used the given calculator code as a framework for my rock paper scissors game. <br>
-I also used the bootstrap grid system to organize elements within the container
+For this task I had to check if camera permission was enabled, if not I request permission. <br>
 
-##### Output Screenshot
+#### Recording Output Screenshot
 
-![RWD_output](wiki_screenshots/RWD_output.PNG)
-
-notes: <br>
-I was able to replicate most of the elements but struggled to make my name appear on the right side. I think my columns were not set up correctly
-
-##### HTML Screenshot
-
-![RWD_output](wiki_screenshots/RWD_html.PNG)
+![recording_output](wiki_screenshots/recording_output.PNG)
 
 notes: <br>
-I used the bootstrap grid system here as well to organize elements on the page
+This part of the app can record and playback audio. <br>
+
+#### AudioRecording Java Screenshot
+
+![AudioRecordingActivity_java](wiki_screenshots/AudioRecordingActivity_java.PNG)
+
+notes: <br>
+For this task I had to initialize a mediarecorder, set the audio source to microphone, and set a few audio properties. <br>
+
+#### Storage Output Screenshot
+
+![storage_output](wiki_screenshots/storage_output.PNG)
+
+notes: <br>
+The storage functionality will save user input text to a file and then display it back to the user after pressing the open button
+
+
+#### Storage Java Screenshot
+
+![StorageActivity_java](wiki_screenshots/StorageActivity_java.PNG)
+
+notes: <br>
+The saveTofile function will read what the user has input and write it to the file specified in the global variable FILENAME. <br>
+The retrieveFromFile function is called when the user presses the "Open" button. This function will open the file at FILENAME, read that input into a string, and display it at the bottom of the page. <br>

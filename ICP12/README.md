@@ -1,43 +1,28 @@
-# ICP3 README / WIKI
+# ICP9 README / WIKI
 
 Description:
 
-In this ICP I created a simple rock paper scissors game using javascript as well as replicated a mockup using html and css
+In this ICP I created a pizza ordering app which sends an email to users confirming their order.
 
 ## RPS Task
 
 ##### Output Screenshot
 
-![RPS_output](wiki_screenshots/RPS_output.PNG)
+![order_output](wiki_screenshots/order_output.PNG)
+notes: <br>
+This is the primary screen for my app. Users can input their desired order and quantity.
+
+##### MainActivity Java Screenshot
+
+![MainActivity_java](wiki_screenshots/MainActivity_java.PNG)
 
 notes: <br>
-My rock paper scissors game is based on the given calculator example
+The primary function here is the submitAndSendMail function. <br>
+this function is called when the user clicks the submit button. It should create an email with the complete order summary in the body, send it to the specified recipient, and navigate to the next page
 
-##### CSS Screenshot
+##### SummaryActivity Java Screenshot
 
-![RPS_css](wiki_screenshots/RPS_css.PNG)
-
-notes: <br>
-I wrote custom css for each output screen (results, player, and computer)
-
-##### HTML Screenshot
-
-![RPS_html](wiki_screenshots/RPS_html.PNG)
+![SummaryActivity_java](wiki_screenshots/SummaryActivity_java.PNG)
 
 notes: <br>
-I used the given calculator code as a framework for my rock paper scissors game. <br>
-I also used the bootstrap grid system to organize elements within the container
-
-##### Output Screenshot
-
-![RWD_output](wiki_screenshots/RWD_output.PNG)
-
-notes: <br>
-I was able to replicate most of the elements but struggled to make my name appear on the right side. I think my columns were not set up correctly
-
-##### HTML Screenshot
-
-![RWD_output](wiki_screenshots/RWD_html.PNG)
-
-notes: <br>
-I used the bootstrap grid system here as well to organize elements on the page
+Code for displaying the users name and order is written here, as well as functionality to redirect back to the order page.
